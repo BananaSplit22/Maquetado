@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.imagen {
+  width: 250px;
+}
+.contenedor {
+margin-left: 10px;
+}
+
+.imagen2 {
+  width: 30px;
+  position: relative;
+  top: -380px;
+  left: 200px;
+}
